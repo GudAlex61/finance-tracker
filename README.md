@@ -127,18 +127,4 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
 - [ ] Интеграция с банковскими API
 - [ ] Мобильное приложение
 
-## 📞 Контакты
 
-**Алексей Гудис** - [aleksejgudis623@gmail.com](mailto:aleksejgudis623@gmail.com)
-
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 💬 [Telegram](https://t.me/your-username)
-- 📝 [Резюме на HH.ru](https://hh.ru/resume/your-code)
-
----
-
-<div align="center">
-
-**⭐ Если проект был полезен - поставьте звездочку!**
-
-</div>
